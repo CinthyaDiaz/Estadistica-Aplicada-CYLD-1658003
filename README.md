@@ -2,3 +2,5 @@
 Actuaria FCFM Ene-Jun 2023
 
 Cinthya Yesenia López Díaz
+
+Grupo 042
